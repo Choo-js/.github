@@ -2,6 +2,11 @@
 
 A multilingual full-stack web application toolkit, inspired by Ruby on Rails.
 
+![@choo-js/choo](https://img.shields.io/npm/v/@choo-js/choo?label=%40choo-js%2Fchoo&style=flat-square)
+![@choo-js/core](https://img.shields.io/npm/v/@choo-js/core?label=%40choo-js%2Fcore&style=flat-square)
+![@choo-js/coal](https://img.shields.io/npm/v/@choo-js/coal?label=%40choo-js%2Fcoal&style=flat-square)
+![@choo-js/ticketing](https://img.shields.io/npm/v/@choo-js/ticketing?label=%40choo-js%2Fticketing&style=flat-square)
+
 ## About
 
 I have been looking for a long time for an alternative to Ruby on Rails, since I
