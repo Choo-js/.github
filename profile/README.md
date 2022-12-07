@@ -66,4 +66,4 @@ The directory structure of any Choo.js project is as follows:
 
 This project is under the MIT license, and we are always looking for collaborators! Please open a PR or an issue if you see something you want added.
 
-More: See [CONTRIBUTING.md](https://github.com/Choo-js/Choo/blob/main/CONTRIBUTING.md)
+More: See [CONTRIBUTING.md](https://github.com/Choo-js/Choo/blob/master/CONTRIBUTING.md)
