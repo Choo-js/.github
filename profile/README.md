@@ -55,7 +55,7 @@ The directory structure of any Choo.js project is as follows:
 
 ## Showcase
 
-![Feature Showcase](./media/features.png)
+![Feature Showcase](./profile/media/features.png)
 
 ## Contributing
 
